@@ -7,8 +7,6 @@ import FloorPlan from './FloorPlan';
 export default function Index() {
   return (
     <div>
-      <h1>Hello</h1>
-      <FloorPlan />
       <FloorPlan />
     </div>
   )
